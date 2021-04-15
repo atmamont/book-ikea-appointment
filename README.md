@@ -7,5 +7,9 @@ You can provide your personal data in the script by filling
 - phone
 - email
 
-Now the script doesn't care of week days and tries to book any available slot on any day for a shop defined by your postcoode
+# dependencies
+
+This script uses Chrome WebDriver and it can be foound [here](https://chromedriver.chromium.org/downloads)
+
+Notes: Now the script doesn't care of week days and tries to book any available slot on any day for a shop defined by your postcoode
 
