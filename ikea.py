@@ -1,11 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
+from secret import NAME, EMAIL, PHONE, ZIPCODE
 
-ZIPCODE = ""
-NAME = ""
-PHONE = ""
-EMAIL = ""
 
 DRIVER_PATH = './chromedriver'
 driver = webdriver.Chrome(executable_path=DRIVER_PATH)
