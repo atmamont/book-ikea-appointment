@@ -10,7 +10,10 @@ You can provide your personal data in the script by filling
 
 # dependencies
 
-This script uses Chrome WebDriver and it can be found [here](https://chromedriver.chromium.org/downloads)
+This script tries to download Chrome WebDriver by itself.
 
 Notes: Now the script doesn't care of week days and tries to book any available slot on any day for a shop defined by your postcode
 
+# the bot
+
+the bot is not ready yet :)
